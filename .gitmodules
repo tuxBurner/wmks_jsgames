@@ -1,3 +1,6 @@
 [submodule "slides/reveal.js"]
 	path = slides/reveal.js
 	url = git@github.com:hakimel/reveal.js.git
+[submodule "sample/Quintus"]
+	path = sample/Quintus
+	url = git@github.com:cykod/Quintus.git
